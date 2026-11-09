@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研示意图转可编辑 SVG"
+  short_description: "以参照图或已有示意图为起点，生成可在 Illustrator 编辑的科研 SVG"
+  default_prompt: "使用 $scientific-graphical-abstract，把我提供的科研示意图转换为可编辑 SVG，保留科学关系，重建文字和关键箭头，并交付高清预览；运行要求为 GPT-6 astra + High。"
